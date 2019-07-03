@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spotify-all-albums/static/css/main.4a7c63af.chunk.css",
+    "main.js": "/spotify-all-albums/static/js/main.9fc3f00a.chunk.js",
+    "main.js.map": "/spotify-all-albums/static/js/main.9fc3f00a.chunk.js.map",
+    "runtime~main.js": "/spotify-all-albums/static/js/runtime~main.7fd17c67.js",
+    "runtime~main.js.map": "/spotify-all-albums/static/js/runtime~main.7fd17c67.js.map",
+    "static/js/2.2d7ca78f.chunk.js": "/spotify-all-albums/static/js/2.2d7ca78f.chunk.js",
+    "static/js/2.2d7ca78f.chunk.js.map": "/spotify-all-albums/static/js/2.2d7ca78f.chunk.js.map",
+    "index.html": "/spotify-all-albums/index.html",
+    "precache-manifest.cda728939cca09835d9b9eabe5fc5196.js": "/spotify-all-albums/precache-manifest.cda728939cca09835d9b9eabe5fc5196.js",
+    "service-worker.js": "/spotify-all-albums/service-worker.js",
+    "static/css/main.4a7c63af.chunk.css.map": "/spotify-all-albums/static/css/main.4a7c63af.chunk.css.map"
+  }
+}
