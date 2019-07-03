@@ -3,7 +3,9 @@ import SpotifyWebApi from "spotify-web-api-node";
 import Album from "../components/Album";
 
 const ACCESS_TOKEN_COOKIE = "spotify:access_token";
-const URL = `${document.location.origin}/`;
+const URL = `${document.location.origin}/${
+  document.location.href.includes("github") ? "spotify-all-albums/" : ""
+}`;
 
 const credentials = {
   clientId: "ddc2dee973c44bbf8c584dcd0c50e3b7",
