@@ -1,6 +1,6 @@
 {
   "name": "spotify-all-albums",
-  "homepage": "https://darraghmckay.github.io/spotify-all-albums",
+  "homepage": "http://albums.darraghmckay.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
