@@ -18,7 +18,9 @@ const Album = ({ album, createdAt }) => (
           >
             {artist.name}
           </a>
-          {index < album.artists && <span className="artist-divider">,</span>}
+          {index < album.artists.length - 1 && (
+            <span className="artist-divider">,</span>
+          )}
         </React.Fragment>
       ))}
     </div>

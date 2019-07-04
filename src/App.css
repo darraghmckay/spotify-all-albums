@@ -41,3 +41,7 @@ body {
 a.artist {
   color: #969696;
 }
+
+span.artist-divider {
+  color: #969696;
+}
